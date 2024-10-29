@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('ais-ai-store', 'ais-components', 'react', 'react-jsx-runtime', 'wp-components', 'wp-data', 'wp-dom-ready', 'wp-element', 'wp-i18n', 'wp-keycodes'), 'version' => '65dec6ca1337b344d0ee');
